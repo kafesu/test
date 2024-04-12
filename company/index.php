@@ -16,7 +16,7 @@ require_once("../db.php");
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <title>Takura Job Place</title>
+  <title>Lynk</title>
   <!-- Tell the browser to be responsive to screen width -->
   <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
   <!-- Bootstrap 3.3.7 -->
@@ -49,9 +49,9 @@ require_once("../db.php");
     <!-- Logo -->
     <a href="index.php" class="logo logo-bg">
       <!-- mini logo for sidebar mini 50x50 pixels -->
-      <span class="logo-mini"><b>J</b>P</span>
+      <span class="logo-mini">L</span>
       <!-- logo for regular state and mobile devices -->
-      <span class="logo-lg"><b>Job</b> Portal</span>
+      <span class="logo-lg">Lynk</span>
     </a>
 
     <!-- Header Navbar: style can be found in header.less -->
@@ -153,7 +153,7 @@ require_once("../db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2024 <a href=" ">Takura Job Place</a>.</strong> All rights
+      <strong>Copyright &copy; 2024 <a href=" ">Lynk</a>.</strong> All rights
     reserved.
     </div>
   </footer>
