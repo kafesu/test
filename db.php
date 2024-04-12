@@ -2,8 +2,8 @@
 
 //Your Mysql Config
 $servername = "localhost";
-$username = "root";
-$password = "password";
+$username = "lynk";
+$password = "#Password123";
 $dbname = "jobboard";
 
 //Create New Database Connection
