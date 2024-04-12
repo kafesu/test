@@ -3,8 +3,8 @@
 //Your Mysql Config
 $servername = "localhost";
 $username = "root";
-$password = "";
-$dbname = "jobborad";
+$password = "password";
+$dbname = "jobboard";
 
 //Create New Database Connection
 $conn = new mysqli($servername, $username, $password, $dbname);
